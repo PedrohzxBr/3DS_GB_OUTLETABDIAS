@@ -31,12 +31,22 @@
     transform: scale(1.2);
 }
 
-.container {
+.produtos {
 
     
     display: flex;
     justify-content: center;
-    align-items: center;
+
 
 
 }
+
+.titulo_prod {
+    font-family:Arial;
+    font-weight:bold;
+    color:rgb(41, 40, 39);
+    display: flex;
+    justify-content: center;
+    padding:20px;
+}
+
